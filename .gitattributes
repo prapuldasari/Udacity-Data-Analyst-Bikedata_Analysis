@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 /bike_share_no_filter.html linguist-vendored
+/bikeshare_filter.html linguist-vendored
+/bike_share_no_filter.html linguist-vendored
+/bike_share_no_filter.html linguist-vendored
